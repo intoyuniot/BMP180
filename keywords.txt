@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ BMP180   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+startTemperature  KEYWORD2
+getTemperature  KEYWORD2
+startPressure  KEYWORD2
+getPressure  KEYWORD2
+sealevel  KEYWORD2
+altitude  KEYWORD2
+getError  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BMP180_ADDR  LITERAL1
+BMP180_REG_CONTROL  LITERAL1
+BMP180_REG_RESULT  LITERAL1
+BMP180_COMMAND_TEMPERATURE  LITERAL1
+BMP180_COMMAND_PRESSURE0  LITERAL1
+BMP180_COMMAND_PRESSURE1  LITERAL1
+BMP180_COMMAND_PRESSURE2  LITERAL1
+BMP180_COMMAND_PRESSURE3  LITERAL1

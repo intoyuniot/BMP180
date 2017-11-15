@@ -1,0 +1,17 @@
+{
+    "name": "BMP180",
+    "version": "1.0.0",
+    "keywords": "BMP180",
+    "description": "BMP180(博世气压传感器)驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/BMP180.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
